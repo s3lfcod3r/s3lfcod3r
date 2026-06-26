@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="SelfCoder" width="120" />
-
-  # SelfCoder
+  <img src="./logo.png" alt="SelfCoder" width="280" />
 
   **Self-built. Self-hosted.**
 
