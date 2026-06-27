@@ -33,6 +33,7 @@ Self-hosted, open source, no vendor lock-in. First for myself, then shared with 
 | 6 | **[SelfStore](https://github.com/s3lfcod3r/selfstore)** | Your own app store — a native Android/TV store that installs and updates every Self app. Catalog hosted on GitHub Pages. | Android · Kotlin · GitHub Pages | 🟡 Beta |
 | 7 | **[SelfPoolTracker](https://github.com/s3lfcod3r/selfpooltracker)** | Your pool, under control — a browser-based water-quality tracker. Logs pH, chlorine, redox & temperature with traffic-light status and dosing recommendations. No server, no cloud. | HTML · JavaScript · Browser | 🟢 Live |
 | 8 | **[SelfCoder](https://github.com/s3lfcod3r/selfcoder)** | The home of it all — my developer portfolio and the hub linking every Self project. Statically generated, hosted on GitHub Pages. | Next.js · Static Export · GitHub Pages | 🟢 Live |
+| 9 | **[SelfThreatMap](https://github.com/s3lfcod3r/selfthreatmap)** | See who's attacking — a live CrowdSec threat map showing every attack on a world map, with 30+ switchable flight-path styles. Docker & Unraid. | JavaScript · D3.js · Python · Docker | 🟢 Live |
 
 > As a tech enthusiast, I simply enjoy building my own solutions. More at **[selfcoder.de](https://www.selfcoder.de)**.
 
@@ -57,5 +58,6 @@ Self-hosted, quelloffen, ohne Vendor Lock-in. Erst für mich selbst, dann geteil
 | 6 | **[SelfStore](https://github.com/s3lfcod3r/selfstore)** | Dein eigener App-Store — ein nativer Android/TV-Store, der alle Self-Apps installiert und aktuell hält. Katalog auf GitHub Pages. | Android · Kotlin · GitHub Pages | 🟡 Beta |
 | 7 | **[SelfPoolTracker](https://github.com/s3lfcod3r/selfpooltracker)** | Dein Pool im Griff — ein browserbasierter Wasserwert-Tracker. Loggt pH, Chlor, Redox & Temperatur mit Ampel-Status und Dosierempfehlungen. Kein Server, keine Cloud. | HTML · JavaScript · Browser | 🟢 Live |
 | 8 | **[SelfCoder](https://github.com/s3lfcod3r/selfcoder)** | Wo alles zusammenläuft — mein Entwickler-Portfolio und die Drehscheibe zu allen Self-Projekten. Statisch generiert, gehostet auf GitHub Pages. | Next.js · Static Export · GitHub Pages | 🟢 Live |
+| 9 | **[SelfThreatMap](https://github.com/s3lfcod3r/selfthreatmap)** | Sieh, wer angreift — eine Live-CrowdSec-Angriffskarte mit allen Angriffen auf der Weltkarte und über 30 umschaltbaren Bahn-Stilen. Docker & Unraid. | JavaScript · D3.js · Python · Docker | 🟢 Live |
 
 > Als Technikbegeisterter macht's mir Spaß, eigene Lösungen zu bauen. Mehr auf **[selfcoder.de](https://www.selfcoder.de)**.
