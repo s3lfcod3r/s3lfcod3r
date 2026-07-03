@@ -19,7 +19,7 @@
 ---
 
 A growing collection of my own tools — built, hosted and controlled by me.
-Self-hosted, open source, no vendor lock-in. First for myself, then shared with family and friends.
+Self-hosted, mostly open source, no vendor lock-in. First for myself, then shared with family and friends.
 
 ### 🛠️ Projects
 
@@ -45,7 +45,7 @@ Self-hosted, open source, no vendor lock-in. First for myself, then shared with 
 **Selbst gebaut. Selbst gehostet.**
 
 Eine wachsende Sammlung eigener Tools — gebaut, gehostet und kontrolliert von mir.
-Self-hosted, quelloffen, ohne Vendor Lock-in. Erst für mich selbst, dann geteilt mit Familie und Freunden.
+Self-hosted, größtenteils quelloffen, ohne Vendor Lock-in. Erst für mich selbst, dann geteilt mit Familie und Freunden.
 
 ### 🛠️ Projekte
 
