@@ -35,6 +35,7 @@ Self-hosted, mostly open source, no vendor lock-in. First for myself, then share
 | 8 | **[SelfCoder](https://github.com/s3lfcod3r/selfcoder)** | The home of it all — my developer portfolio and the hub linking every Self project. Statically generated, hosted on GitHub Pages. | Next.js · Static Export · GitHub Pages | 🟢 Live |
 | 9 | **[SelfThreatMap](https://github.com/s3lfcod3r/selfthreatmap)** | See who's attacking — a live CrowdSec threat map showing every attack on a world map, with 30+ switchable flight-path styles. Docker & Unraid. | JavaScript · D3.js · Python · Docker | 🟢 Live |
 | 10 | **[SelfWG](https://github.com/s3lfcod3r/selfwg)** | WireGuard that stays up — a standalone client whose watchdog reconnects automatically after the daily ISP IP change. Per-app split tunnel, multiple tunnels, fingerprint lock. | Android · Kotlin · Compose | 🟢 Live |
+| 11 | **[SelfMediaHub](https://github.com/s3lfcod3r/selfmediahub)** | Your media library at a glance — a read-only analysis, monitoring & quality-control layer over Emby/Jellyfin/Plex and local folders. Never a media server, never writes back: completeness, technical quality, tags & rules, FSK ratings. | FastAPI · Python · SQLite · Docker | 🟢 Live |
 
 > As a tech enthusiast, I simply enjoy building my own solutions. More at **[selfcoder.de](https://www.selfcoder.de)**.
 
@@ -61,5 +62,6 @@ Self-hosted, größtenteils quelloffen, ohne Vendor Lock-in. Erst für mich selb
 | 8 | **[SelfCoder](https://github.com/s3lfcod3r/selfcoder)** | Wo alles zusammenläuft — mein Entwickler-Portfolio und die Drehscheibe zu allen Self-Projekten. Statisch generiert, gehostet auf GitHub Pages. | Next.js · Static Export · GitHub Pages | 🟢 Live |
 | 9 | **[SelfThreatMap](https://github.com/s3lfcod3r/selfthreatmap)** | Sieh, wer angreift — eine Live-CrowdSec-Angriffskarte mit allen Angriffen auf der Weltkarte und über 30 umschaltbaren Bahn-Stilen. Docker & Unraid. | JavaScript · D3.js · Python · Docker | 🟢 Live |
 | 10 | **[SelfWG](https://github.com/s3lfcod3r/selfwg)** | WireGuard, der oben bleibt — ein eigenständiger Client, dessen Wächter nach der täglichen Zwangstrennung automatisch neu verbindet. App-Split-Tunnel, mehrere Tunnel, Fingerabdruck-Schutz. | Android · Kotlin · Compose | 🟢 Live |
+| 11 | **[SelfMediaHub](https://github.com/s3lfcod3r/selfmediahub)** | Deine Mediathek auf einen Blick — eine read-only Analyse-, Monitoring- und Qualitätsschicht über Emby/Jellyfin/Plex und lokale Ordner. Kein Medienserver, schreibt nie zurück: Vollständigkeit, technische Qualität, Tags & Regeln, FSK-Freigaben. | FastAPI · Python · SQLite · Docker | 🟢 Live |
 
 > Als Technikbegeisterter macht's mir Spaß, eigene Lösungen zu bauen. Mehr auf **[selfcoder.de](https://www.selfcoder.de)**.
