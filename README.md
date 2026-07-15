@@ -36,6 +36,7 @@ Self-hosted, mostly open source, no vendor lock-in. First for myself, then share
 | 9 | **[SelfThreatMap](https://github.com/s3lfcod3r/selfthreatmap)** | See who's attacking — a live CrowdSec threat map showing every attack on a world map, with 30+ switchable flight-path styles. Docker & Unraid. | JavaScript · D3.js · Python · Docker | 🟢 Live |
 | 10 | **[SelfWG](https://github.com/s3lfcod3r/selfwg)** | WireGuard that stays up — a standalone client whose watchdog reconnects automatically after the daily ISP IP change. Per-app split tunnel, multiple tunnels, fingerprint lock. | Android · Kotlin · Compose | 🟢 Live |
 | 11 | **[SelfMediaHub](https://github.com/s3lfcod3r/selfmediahub)** | Your media library at a glance — a read-only analysis, monitoring & quality-control layer over Emby/Jellyfin/Plex and local folders. Never a media server, never writes back: completeness, technical quality, tags & rules, FSK ratings. | FastAPI · Python · SQLite · Docker | 🟢 Live |
+| 12 | **[SelfPanini](https://github.com/s3lfcod3r/selfpanini-web)** | Your sticker album, sorted — a simple tracker for the WM 2026 sticker album: tick off stickers, keep an eye on missing & duplicate ones, and trade with friends via link or a short cloud code. Free, no account. | HTML · JavaScript · Cloudflare Worker | 🟢 Live |
 
 > As a tech enthusiast, I simply enjoy building my own solutions. More at **[selfcoder.de](https://www.selfcoder.de)**.
 
@@ -63,5 +64,6 @@ Self-hosted, größtenteils quelloffen, ohne Vendor Lock-in. Erst für mich selb
 | 9 | **[SelfThreatMap](https://github.com/s3lfcod3r/selfthreatmap)** | Sieh, wer angreift — eine Live-CrowdSec-Angriffskarte mit allen Angriffen auf der Weltkarte und über 30 umschaltbaren Bahn-Stilen. Docker & Unraid. | JavaScript · D3.js · Python · Docker | 🟢 Live |
 | 10 | **[SelfWG](https://github.com/s3lfcod3r/selfwg)** | WireGuard, der oben bleibt — ein eigenständiger Client, dessen Wächter nach der täglichen Zwangstrennung automatisch neu verbindet. App-Split-Tunnel, mehrere Tunnel, Fingerabdruck-Schutz. | Android · Kotlin · Compose | 🟢 Live |
 | 11 | **[SelfMediaHub](https://github.com/s3lfcod3r/selfmediahub)** | Deine Mediathek auf einen Blick — eine read-only Analyse-, Monitoring- und Qualitätsschicht über Emby/Jellyfin/Plex und lokale Ordner. Kein Medienserver, schreibt nie zurück: Vollständigkeit, technische Qualität, Tags & Regeln, FSK-Freigaben. | FastAPI · Python · SQLite · Docker | 🟢 Live |
+| 12 | **[SelfPanini](https://github.com/s3lfcod3r/selfpanini-web)** | Dein Sammelalbum im Griff — ein einfacher Tracker fürs WM-2026-Sammelalbum: Sticker abhaken, Fehlende & Doppelte im Blick behalten und mit Freunden tauschen (per Link oder kurzem Cloud-Code). Kostenlos, ohne Konto. | HTML · JavaScript · Cloudflare Worker | 🟢 Live |
 
 > Als Technikbegeisterter macht's mir Spaß, eigene Lösungen zu bauen. Mehr auf **[selfcoder.de](https://www.selfcoder.de)**.
