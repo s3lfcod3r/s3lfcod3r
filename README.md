@@ -9,7 +9,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Self--hosted-33a78c?style=flat-square" alt="Self-hosted" />
-    <img src="https://img.shields.io/badge/Open%20Source-33a78c?style=flat-square" alt="Open Source" />
+    <img src="https://img.shields.io/badge/All%20rights%20reserved-33a78c?style=flat-square" alt="All rights reserved" />
     <img src="https://img.shields.io/badge/Docker-33a78c?style=flat-square" alt="Docker" />
   </p>
 
@@ -19,7 +19,7 @@
 ---
 
 A growing collection of my own tools — built, hosted and controlled by me.
-Self-hosted, mostly open source, no vendor lock-in. First for myself, then shared with family and friends.
+Self-hosted, source-available, no vendor lock-in. First for myself, then shared with family and friends.
 
 ### 🛠️ Projects
 
@@ -48,7 +48,7 @@ Self-hosted, mostly open source, no vendor lock-in. First for myself, then share
 **Selbst gebaut. Selbst gehostet.**
 
 Eine wachsende Sammlung eigener Tools — gebaut, gehostet und kontrolliert von mir.
-Self-hosted, größtenteils quelloffen, ohne Vendor Lock-in. Erst für mich selbst, dann geteilt mit Familie und Freunden.
+Self-hosted, Quellcode einsehbar, ohne Vendor Lock-in. Erst für mich selbst, dann geteilt mit Familie und Freunden.
 
 ### 🛠️ Projekte
 
@@ -69,3 +69,23 @@ Self-hosted, größtenteils quelloffen, ohne Vendor Lock-in. Erst für mich selb
 | 13 | **[SelfStorm](https://github.com/s3lfcod3r/selfstorm)** | Unwetter, ehrlich vorhergesagt — eine Unwetter- & Hagel-Ampel, die mehrere Wettermodelle ehrlich gegeneinander rechnet. [wetter.selfcoder.de](https://wetter.selfcoder.de) | HTML · JavaScript · Browser | 🟢 Live |
 
 > Als Technikbegeisterter macht's mir Spaß, eigene Lösungen zu bauen. Mehr auf **[selfcoder.de](https://www.selfcoder.de)**.
+
+---
+
+## ⚖️ Lizenz / License
+
+**🇩🇪 Alle Rechte vorbehalten.** © 2026 s3lfcod3r / SelfCoder
+
+Für alle meine Projekte gilt: Du darfst die Software **privat und nicht-kommerziell** installieren und benutzen (z. B. im Homelab, über Docker oder Unraid).
+
+**Ohne schriftliche Erlaubnis verboten:** kommerzielle Nutzung · Kopieren · Verändern · Weitergeben · Einbauen in eigene Projekte (auch Closed Source) · Verkaufen.
+
+Details: die `LICENSE`-Datei im jeweiligen Repository.
+
+**🇬🇧 All rights reserved.** © 2026 s3lfcod3r / SelfCoder
+
+This applies to all my projects: you may install and use the software **privately and non-commercially** (e.g. in your home lab, via Docker or Unraid).
+
+**Not permitted without written permission:** commercial use · copying · modifying · redistributing · incorporating into other projects (including closed source) · selling.
+
+Details: the `LICENSE` file in each repository.
