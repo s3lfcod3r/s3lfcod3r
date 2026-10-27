@@ -39,6 +39,15 @@ Self-hosted, source-available, no vendor lock-in. First for myself, then shared 
 | 12 | **[SelfGuard](https://github.com/s3lfcod3r/selfguard)** | Your phone, checked — an Android security app with device audit, stalkerware detection, malware checksum scan and a local ad/tracker DNS filter. Scans fully offline. | Android · Kotlin · Compose | 🟢 Live |
 | 13 | **[SelfStorm](https://github.com/s3lfcod3r/selfstorm)** | Storms, honestly forecast — a severe-weather & hail traffic light that weighs several weather models against each other. [wetter.selfcoder.de](https://wetter.selfcoder.de) | HTML · JavaScript · Browser | 🟢 Live |
 
+### 📦 Unraid packages
+
+Ready-made containers for other people's projects — all credit stays with the original authors, their licenses apply.
+
+| Package | What it does | Based on |
+| --- | --- | --- |
+| **[ts6-manager-unraid](https://github.com/s3lfcod3r/ts6-manager-unraid)** | TS6 Manager as a single container for Unraid — rebuilt automatically when the original changes, with build-time fixes. | [clusterzx/ts6-manager](https://github.com/clusterzx/ts6-manager) (MIT) |
+| **[zoraxy-crowdsec-bouncer](https://github.com/s3lfcod3r/zoraxy-crowdsec-bouncer)** | Zoraxy reverse proxy with the CrowdSec bouncer plugin pre-installed — ready for Unraid and Docker. | [Zoraxy](https://github.com/tobychui/zoraxy) (AGPL-3.0) · [CrowdSec bouncer plugin](https://github.com/AnthonyMichaelTDM/zoraxy_crowdsec_bouncer) (MIT) |
+
 > As a tech enthusiast, I simply enjoy building my own solutions. More at **[selfcoder.de](https://www.selfcoder.de)**.
 
 ---
@@ -67,6 +76,15 @@ Self-hosted, Quellcode einsehbar, ohne Vendor Lock-in. Erst für mich selbst, da
 | 11 | **[SelfMediaHub](https://github.com/s3lfcod3r/selfmediahub)** | Deine Mediathek auf einen Blick — eine read-only Analyse-, Monitoring- und Qualitätsschicht über Emby/Jellyfin/Plex und lokale Ordner. Kein Medienserver, schreibt nie zurück: Vollständigkeit, technische Qualität, Tags & Regeln, FSK-Freigaben. | FastAPI · Python · SQLite · Docker | 🟢 Live |
 | 12 | **[SelfGuard](https://github.com/s3lfcod3r/selfguard)** | Dein Handy, geprüft — eine Android-Sicherheits-App mit Geräte-Audit, Stalkerware-Erkennung, Malware-Prüfsummen-Scan und lokalem Werbe-/Tracker-DNS-Filter. Scannt komplett offline. | Android · Kotlin · Compose | 🟢 Live |
 | 13 | **[SelfStorm](https://github.com/s3lfcod3r/selfstorm)** | Unwetter, ehrlich vorhergesagt — eine Unwetter- & Hagel-Ampel, die mehrere Wettermodelle ehrlich gegeneinander rechnet. [wetter.selfcoder.de](https://wetter.selfcoder.de) | HTML · JavaScript · Browser | 🟢 Live |
+
+### 📦 Unraid-Pakete
+
+Fertige Container für Projekte anderer — die Urheberschaft bleibt bei den Original-Autoren, es gelten deren Lizenzen.
+
+| Paket | Was es macht | Basiert auf |
+| --- | --- | --- |
+| **[ts6-manager-unraid](https://github.com/s3lfcod3r/ts6-manager-unraid)** | TS6 Manager als Single-Container für Unraid — wird automatisch neu gebaut, wenn sich das Original ändert, mit Korrekturen beim Bauen. | [clusterzx/ts6-manager](https://github.com/clusterzx/ts6-manager) (MIT) |
+| **[zoraxy-crowdsec-bouncer](https://github.com/s3lfcod3r/zoraxy-crowdsec-bouncer)** | Zoraxy-Reverse-Proxy mit vorinstalliertem CrowdSec-Bouncer-Plugin — fertig für Unraid und Docker. | [Zoraxy](https://github.com/tobychui/zoraxy) (AGPL-3.0) · [CrowdSec-Bouncer-Plugin](https://github.com/AnthonyMichaelTDM/zoraxy_crowdsec_bouncer) (MIT) |
 
 > Als Technikbegeisterter macht's mir Spaß, eigene Lösungen zu bauen. Mehr auf **[selfcoder.de](https://www.selfcoder.de)**.
 
