@@ -6,6 +6,9 @@
   <a href="https://www.selfcoder.de">
     <img src="https://img.shields.io/badge/Website-selfcoder.de-33a78c?style=for-the-badge" alt="Website" />
   </a>
+  <a href="https://ko-fi.com/s3lfcod3r">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
+  </a>
 
   <p>
     <img src="https://img.shields.io/badge/Self--hosted-33a78c?style=flat-square" alt="Self-hosted" />
@@ -50,6 +53,12 @@ Ready-made containers for other people's projects — all credit stays with the 
 
 > As a tech enthusiast, I simply enjoy building my own solutions. More at **[selfcoder.de](https://www.selfcoder.de)**.
 
+### ☕ Support
+
+All my projects are free for private use, built in my spare time. If one of them saved you time, a coffee keeps me going through late-night debugging sessions. No pressure, a ⭐ on a repo helps too!
+
+<a href="https://ko-fi.com/s3lfcod3r"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
+
 ---
 
 ## 🇩🇪 Deutsch
@@ -87,6 +96,12 @@ Fertige Container für Projekte anderer — die Urheberschaft bleibt bei den Ori
 | **[zoraxy-crowdsec-bouncer](https://github.com/s3lfcod3r/zoraxy-crowdsec-bouncer)** | Zoraxy-Reverse-Proxy mit vorinstalliertem CrowdSec-Bouncer-Plugin — fertig für Unraid und Docker. | [Zoraxy](https://github.com/tobychui/zoraxy) (AGPL-3.0) · [CrowdSec-Bouncer-Plugin](https://github.com/AnthonyMichaelTDM/zoraxy_crowdsec_bouncer) (MIT) |
 
 > Als Technikbegeisterter macht's mir Spaß, eigene Lösungen zu bauen. Mehr auf **[selfcoder.de](https://www.selfcoder.de)**.
+
+### ☕ Unterstützen
+
+Alle meine Projekte sind für private Nutzung kostenlos und in meiner Freizeit entstanden. Hat dir eins davon geholfen? Dann freue ich mich über einen Kaffee, der hält mich bei den nächtlichen Debugging-Sessions wach. Kein Muss, ein ⭐ auf einem Repo hilft auch!
+
+<a href="https://ko-fi.com/s3lfcod3r"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Unterstütze mich auf Ko-fi" /></a>
 
 ---
 
