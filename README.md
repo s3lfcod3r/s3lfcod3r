@@ -16,6 +16,11 @@
     <img src="https://img.shields.io/badge/Docker-33a78c?style=flat-square" alt="Docker" />
   </p>
 
+  <a href="https://ko-fi.com/s3lfcod3r">
+    <img src="./ki-server-banner.png" width="760" alt="Current campaign: AI server for the Self projects – Aktuelle Aktion: KI-Server für die Self-Projekte" />
+  </a>
+
+
   <sub><b>English</b> · <a href="#-deutsch">Deutsch ↓</a></sub>
 </div>
 
