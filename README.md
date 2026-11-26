@@ -17,7 +17,7 @@
   </p>
 
   <a href="https://ko-fi.com/s3lfcod3r">
-    <img src="./ki-server-banner.png" width="760" alt="Current campaign: AI server for the Self projects – Aktuelle Aktion: KI-Server für die Self-Projekte" />
+    <img src="https://self-goal.s3lfcod3r.workers.dev/banner.png" width="760" alt="Current campaign: AI server for the Self projects – Aktuelle Aktion: KI-Server für die Self-Projekte" />
   </a>
 
 
